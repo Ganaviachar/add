@@ -1,0 +1,10 @@
+h1{
+  text-align: left;
+  color: lightcoral;
+  width: 50px;
+}
+body{
+background-color: steelblue;
+margin: 100px;
+border-style: solid;
+}
